@@ -1,0 +1,8 @@
+a=7
+If a < 10
+     Print( a is less than 10)
+       Print(hello...)
+
+#output
+ a is less than 10
+hello...
